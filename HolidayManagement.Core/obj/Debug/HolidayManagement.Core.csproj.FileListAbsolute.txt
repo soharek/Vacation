@@ -1,0 +1,5 @@
+c:\users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayManagement.Core\bin\Debug\HolidayManagement.Core.dll
+c:\users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayManagement.Core\bin\Debug\HolidayManagement.Core.pdb
+c:\users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayManagement.Core\obj\Debug\HolidayManagement.Core.dll
+c:\users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayManagement.Core\obj\Debug\HolidayManagement.Core.pdb
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayManagement.Core\obj\Debug\HolidayManagement.Core.csprojResolveAssemblyReference.cache

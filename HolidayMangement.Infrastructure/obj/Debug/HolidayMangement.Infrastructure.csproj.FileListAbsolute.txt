@@ -1,0 +1,9 @@
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\HolidayMangement.Infrastructure.dll
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\HolidayMangement.Infrastructure.pdb
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\AutoMapper.dll
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\HolidayManagement.Core.dll
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\HolidayManagement.Core.pdb
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\AutoMapper.xml
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\obj\Debug\HolidayMangement.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\obj\Debug\HolidayMangement.Infrastructure.dll
+C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\obj\Debug\HolidayMangement.Infrastructure.pdb
