@@ -1,6 +1,5 @@
 using AutoMapper;
 using HolidayMangement.Infrastructure.Mapper;
-using HolidayMangement.Infrastructure.Repository;
 using HolidayMangement.Infrastructure.Services.AbstractServices;
 using HolidayMangement.Infrastructure.Services.Concrete;
 
@@ -9,16 +8,14 @@ using HolidayMangement.Infrastructure.Services.Concrete;
 
 namespace HolidayMangement.Api.App_Start
 {
-    using HolidayManagement.Core.Repesository;
+
+    using HolidayManagment.Repository.Repositories.AbstractRepositories;
+    using HolidayManagment.Repository.Repositories.ConcretRepositories;
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
     using Ninject;
     using Ninject.Web.Common;
     using System;
     using System.Web;
-    using System.Web.Http;
-    using Ninject.Web.WebApi;
-    using Ninject.Web.Mvc;
-    using HolidayManagement.Core.Repesository;
 
     public static class NinjectWebCommon 
     {

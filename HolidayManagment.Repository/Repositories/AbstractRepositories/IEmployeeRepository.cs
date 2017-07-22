@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace HolidayManagement.Core.Repesository
+namespace HolidayManagment.Repository.Repositories.AbstractRepositories
 {
     public interface IEmployeeRepository
     {
@@ -12,6 +12,5 @@ namespace HolidayManagement.Core.Repesository
         void Add(Employee employee);
         void Update(Employee employee);
         void Delete(Employee employee);
-
     }
 }

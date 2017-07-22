@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using HolidayManagement.Core.Domain;
-using HolidayManagement.Core.Repesository;
+using HolidayManagment.Repository.Repositories.AbstractRepositories;
 using HolidayMangement.Infrastructure.Dtos;
 using HolidayMangement.Infrastructure.Services.AbstractServices;
 using System;

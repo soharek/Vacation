@@ -176,9 +176,9 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HolidayManagement.Core\HolidayManagement.Core.csproj">
-      <Project>{0DE09199-0828-483E-ADEE-FB325901CF2F}</Project>
-      <Name>HolidayManagement.Core</Name>
+    <ProjectReference Include="..\HolidayManagment.Repository\HolidayManagment.Repository.csproj">
+      <Project>{8fbb64d0-38d8-49f5-a388-63a22c4bd4fd}</Project>
+      <Name>HolidayManagment.Repository</Name>
     </ProjectReference>
     <ProjectReference Include="..\HolidayMangement.Infrastructure\HolidayMangement.Infrastructure.csproj">
       <Project>{91f8b8a2-6b18-4c93-98f5-9cec4a127eb4}</Project>

@@ -7,3 +7,5 @@ C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMa
 C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\obj\Debug\HolidayMangement.Infrastructure.csprojResolveAssemblyReference.cache
 C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\obj\Debug\HolidayMangement.Infrastructure.dll
 C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\obj\Debug\HolidayMangement.Infrastructure.pdb
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\HolidayManagment.Repository.dll
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayMangement.Infrastructure\bin\Debug\HolidayManagment.Repository.pdb

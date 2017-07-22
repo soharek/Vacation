@@ -1,10 +1,10 @@
 ﻿using HolidayManagement.Core.Domain;
-using HolidayManagement.Core.Repesository;
+using HolidayManagment.Repository.Repositories.AbstractRepositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HolidayMangement.Infrastructure.Repository
+namespace HolidayManagment.Repository.Repositories.ConcretRepositories
 {
     public class EmplyeeInMemoryRepository : IEmployeeRepository
     {
@@ -42,6 +42,8 @@ namespace HolidayMangement.Infrastructure.Repository
 
         public void Delete(Employee employee)
         {
-            _employees.Remove(employee);}
+            _employees.Remove(employee);
+        }
     }
 }
+

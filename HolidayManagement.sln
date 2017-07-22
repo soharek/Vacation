@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayMangement.Infrastruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayMangement.Api", "HolidayMangement.Api\HolidayMangement.Api.csproj", "{DB8FDC72-C46E-49CE-A991-36AC0AD4734C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayManagment.Repository", "HolidayManagment.Repository\HolidayManagment.Repository.csproj", "{8FBB64D0-38D8-49F5-A388-63A22C4BD4FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DB8FDC72-C46E-49CE-A991-36AC0AD4734C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB8FDC72-C46E-49CE-A991-36AC0AD4734C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB8FDC72-C46E-49CE-A991-36AC0AD4734C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBB64D0-38D8-49F5-A388-63A22C4BD4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBB64D0-38D8-49F5-A388-63A22C4BD4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBB64D0-38D8-49F5-A388-63A22C4BD4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBB64D0-38D8-49F5-A388-63A22C4BD4FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

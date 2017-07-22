@@ -61,3 +61,5 @@ C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMa
 C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Api\bin\Ninject.Web.WebApi.WebHost.dll
 C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Api\bin\Ninject.Web.WebApi.xml
 C:\Users\baske\documents\visual studio 2015\Projects\HolidayManagement\HolidayMangement.Api\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayMangement.Api\bin\HolidayManagment.Repository.dll
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayMangement.Api\bin\HolidayManagment.Repository.pdb
