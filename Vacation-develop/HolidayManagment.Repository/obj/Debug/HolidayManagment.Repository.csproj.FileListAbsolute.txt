@@ -1,0 +1,15 @@
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayManagment.Repository\bin\Debug\HolidayManagment.Repository.dll
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayManagment.Repository\bin\Debug\HolidayManagment.Repository.pdb
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayManagment.Repository\bin\Debug\HolidayManagement.Core.dll
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayManagment.Repository\bin\Debug\HolidayManagement.Core.pdb
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayManagment.Repository\obj\Debug\HolidayManagment.Repository.csprojResolveAssemblyReference.cache
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayManagment.Repository\obj\Debug\HolidayManagment.Repository.dll
+C:\Users\baske\Documents\Visual Studio 2015\Projects\HolidayManagement\HolidayManagment.Repository\obj\Debug\HolidayManagment.Repository.pdb
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\bin\Debug\HolidayManagment.Repository.dll
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\bin\Debug\HolidayManagment.Repository.pdb
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\bin\Debug\HolidayManagement.Core.dll
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\bin\Debug\HolidayManagement.Core.pdb
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\obj\Debug\HolidayManagment.Repository.csprojResolveAssemblyReference.cache
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\obj\Debug\HolidayManagment.Repository.csproj.CoreCompileInputs.cache
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\obj\Debug\HolidayManagment.Repository.dll
+C:\Users\w.stafiej\Documents\Projects\Vacation-develop\HolidayManagment.Repository\obj\Debug\HolidayManagment.Repository.pdb
